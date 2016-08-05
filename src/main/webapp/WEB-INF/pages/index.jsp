@@ -124,8 +124,6 @@
 
 
             </div>
-
-
         </div>
         <div class="span3" style="background-color:white;padding-left: 200px;padding-right: 200px">
 
